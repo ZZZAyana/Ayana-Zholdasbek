@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Orange (fruit)</h1>
+<hr><p>From Wikipedia, the free encyclopedia</p>
+<i>"Orange peel" redirects here. For other uses, see Orange peel (disambiguation).</i>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/220px-Oranges_-_whole-halved-segment.jpg" alt="orange">
+
+<p>The <b>orange</b> is the <a href="https://en.wikipedia.org/wiki/Fruit">fruit</a> of various  <a href="https://en.wikipedia.org/wiki/Citrus">citrus </a>species in the <a href="https://en.wikipedia.org/wiki/Family_(biology)">family </a> <a href="https://en.wikipedia.org/wiki/Rutaceae">Rutaceae </a> (see <a href="https://en.wikipedia.org/wiki/List_of_plants_known_as_orange">list of plants known as orange </a>); it primarily refers to <i>Citrus × sinensis</i>, which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as <a href="https://en.wikipedia.org/wiki/Bitter_orange">bitter orange</a> .   <p>The <b>sweet orange</b> reproduces asexually (<a href="https://en.wikipedia.org/wiki/Apomixis">apomixis</a> through <a href="https://en.wikipedia.org/wiki/Nucellar_embryony">nucellar embryony</a>); varieties of sweet orange arise through mutations</p>
+<p>Rutaceae (see list of plants known as orange); it primarily refers to <i>Citrus × sinensis</i>, which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The <b>sweet orange</b> reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations</p>
+
+<p>The orange is a <a href="https://en.wikipedia.org/wiki/Hybrid_(biology)">hybrid</a> between pomelo <i>(Citrus maxima)</i> and mandarin <i>(Citrus reticulata)</i>. The chloroplast genome, and therefore the maternal line, is that of  <a href="https://en.wikipedia.org/wiki/Pomelo">pomelo</a>. The sweet orange has had its full genome sequenced.</p>
+
+<p>The orange originated in a region encompassing Southern China, Northeast India, and Myanmar, and the earliest mention of the sweet orange was in Chinese literature in 314 BC. As of 1987, orange trees were found to be the most cultivated fruit tree in the world. Orange trees are widely grown in tropical and subtropical climates for their sweet fruit. The fruit of the orange tree can be eaten fresh, or processed for its juice or fragrant [peel.As](http://peel.as/) of 2012, sweet oranges accounted for approximately 70% of citrus production</p>
+
+<p>In 2019, 79 million tonnes of oranges were grown worldwide, with Brazil producing 22% of the total, followed by China and India.</p>
+
+<p> <b>Contents </b> </p>
+<ol>
+<li> <a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Taxonomy_and_terminology">Taxonomy and terminology</a> </li>
+<li> <a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Etymology">Etymology</a></li>
+<li> <a href="https://en.wikipedia.org/wiki/Orange_(fruit)#History">History</a></li>
+
+<li> <a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Varieties">Varieties</a> </li>
+
+<li><a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Common">4.1   Common</a> </li>
+
+<li><a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Valencia">4.1.1 Valencia</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Hamlin">4.1.2   Hamlin</a></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Other">4.1.3 Other</a></li>
+
+<a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Navel">4.2  Navel</a>
+
+<a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Cara_cara">4.2.1 Cara cara</a></ol>
+
+<ol><a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Other_2">4.2.2 Other</a></ol>
+
+<br><a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Blood">4.3   Blood</a>
+<br> <a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Acidless">4.4   Acidless</a>
+<br> <a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Hybrid">4.5  Hybrid</a> 
+
+<li> <a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Attributes">Attributes</a></li>
+
+<a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Sensory_factors">5.1  Sensory factors</a>
+
+<br><a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Nutritional_value_and_phytochemicals">5.2   Nutritional value and phytochemicals</a></p>
+
+<br><a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Grading">5.3  Grading</a>
+
+<li> <a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Cultivation">Cultivation</a></li>
+
+<a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Climate">6.1 Climate</a></p>
+<a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Propagation">
+6.2   Propagation</a> </p>
+<a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Harvest">6.3  Harvest</a> </p>
+<a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Degreening">6.4  Degreening</a></p>
+<a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Storage">6.5  Storage</a> </p>
+<a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Pests_and_diseases">6.6   Pests and diseases</a> </p>
+
+<ol><a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Cottony_cushion_scale">6.6.1  Cottony cushion scale
+</a></ol>
+
+<ol><a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Citrus_greening_disease">6.6.2 Citrus greening disease</a></ol>
+
+<ol><a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Greasy_spot">6.6.3 Greasy spot</a></ol>
+
+
+<li> <a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Production">Production
+</a></li>
+<li> <a href="https://en.wikipedia.org/wiki/Orange_(fruit)#Products">Products</a></li>
+<li> <a href="https://en.wikipedia.org/wiki/Orange_(fruit)#See_also">See also </a></li>
+<li> <a href="https://en.wikipedia.org/wiki/Orange_(fruit)#References">References</a></li>
+<li> <a href="https://en.wikipedia.org/wiki/Orange_(fruit)#External_links">External links</a></li>
+
+</ol>
+
+<hr><i>Main article: Citrus taxonomy.</i>
+
+<p>All citrus trees belong to the single genus Citrus and remain almost entirely interfertile. This includes grapefruits, lemons, limes, oranges, and various other types and hybrids. As the interfertility of oranges and other citrus has produced numerous hybrids and cultivars, and bud mutations have also been selected, citrus taxonomy is fairly controversial, confusing or inconsistent. The fruit of any citrus tree is considered a hesperidium, a kind of modified berry; it is covered by a rind originated by a rugged thickening of the ovary wall.</p>
+
+<p>Different names have been given to the many varieties of the species. Orange applies primarily to the sweet orange – Citrus sinensis (L.) Osbeck. The orange tree is an evergreen, flowering tree, with an average height of 9 to 10 m (30 to 33 ft), although some very old specimens can reach 15 m (49 ft).Its oval leaves, alternately arranged, are 4 to 10 cm (1.6 to 3.9 in) long and have crenulate margins.Sweet oranges grow in a range of different sizes, and shapes varying from spherical to oblong. Inside and attached to the rind is a porous white tissue, the white, bitter mesocarp or albedo (pith). The orange contains a number of distinct carpels (segments) inside, typically about ten, each delimited by a membrane, and containing many juice-filled vesicles and usually a few seeds (pips).When unripe, the fruit is green. The grainy irregular rind of the ripe fruit can range from bright orange to yellow-orange, but frequently retains green patches or, under warm climate conditions, remains entirely green. Like all other citrus fruits, the sweet orange is non-climacteric. The Citrus sinensis group is subdivided into four classes with distinct characteristics: common oranges, blood or pigmented oranges, navel oranges, and acidless oranges</p>
+
+<p> Other citrus groups also known as oranges are: </p>
+<ul>
+<li>Mandarin orange (Citrus reticulata) is an original species of citrus, and is a progenitor of the common orange.</li>
+<li>Bitter orange (Citrus aurantium), also known as Seville orange, sour orange (especially when used as rootstock for a sweet orange tree), bigarade orange and marmalade orange. Like the sweet orange, it is a pomelo x mandarin hybrid, but arose from a distinct hybridization event</li>
+<li>Bergamot orange (Citrus bergamia Risso), grown mainly in Italy for its peel, producing a primary essence for perfumes, also used to flavor Earl Grey tea. It is a hybrid of bitter orange x lemon.</li>
+<li>Trifoliate orange (Poncirus trifoliata), sometimes included in the genus (classified as Citrus trifoliata). It often serves as a rootstock for sweet orange trees and other Citrus cultivars</li>
+</ul>
+
+<p>An enormous number of cultivars have, like the sweet orange, a mix of pomelo and mandarin ancestry. Some cultivars are mandarin-pomelo hybrids, bred from the same parents as the sweet orange (e.g. the tangor and ponkan tangerine). Other cultivars are sweet orange x mandarin hybrids (e.g. clementines). Mandarin traits generally include being smaller and oblate, easier to peel, and less acidic. Pomelo traits include a thick white albedo (rind pith, mesocarp) that is more closely attached to the segments.</p>
+<p> Orange trees generally are grafted. The bottom of the tree, including the roots and trunk, is called rootstock, while the fruit-bearing top has two different names: budwood (when referring to the process of grafting) and scion (when mentioning the variety of orange).</p>
+
+<h1>Etymology</h1>
+<hr><i>Main article: Orange (word)</i>
+
+<p> The word orange derives from the Sanskrit word for "orange tree" (नारङ्ग nāraṅga), which in turn derives from a Dravidian root word (compare நரந்தம்/നാരങ്ങ narandam/naranja which refers to Bitter orange in Tamil and Malayalam). The Sanskrit word reached European languages through Persian نارنگ (nārang) and its Arabic derivative نارنج (nāranj). </p>
+<p> The word entered Late Middle English in the fourteenth century via Old French orenge (in the phrase pomme d'orenge). The French word, in turn, comes from Old Provençal auranja, based on Arabic nāranj. In several languages, the initial n present in earlier forms of the word dropped off because it may have been mistaken as part of an indefinite article ending in an n sound—in French, for example, une norenge may have been heard as une orenge. This linguistic change is called juncture loss. The color was named after the fruit, and the first recorded use of orange as a color name in English was in 1512. </p>
+<p> As Portuguese merchants were presumably the first to introduce the sweet orange to some regions of Europe, in several modern Indo-European languages the fruit has been named after them. Some examples are Albanian portokall, Bulgarian портокал (portokal), Greek πορτοκάλι (portokali), Macedonian portokal, Persian پرتقال (porteghal), Turkish portakal and Romanian portocală.Related names can be found in other languages, such as Arabic البرتقال (bourtouqal), Georgian ფორთოხალი (pʰortʰoxali) and Amharic birtukan. Also, in some of the Italian regional languages (e.g. Neapolitan), an orange is portogallo or purtuallo, literally "(the) Portuguese (one)", in contrast to the Italian arancia.</p>
+<p> In other Indo-European languages, the words for orange allude to the eastern origin of the fruit and can be translated literally as "apple from China". Some examples are German Apfelsine (alternative name for Orange and common in northern Germany), Dutch appelsien and sinaasappel, Swedish apelsin, Russian апельсин (apelsin) and Norwegian appelsin. A similar case is Puerto Rican Spanish china </p>
+<p> Various Slavic languages use the variants pomaranč (Slovak), pomeranč (Czech), pomaranča (Slovene), and pomarańcza (Polish), all from Old French pomme d'orenge.</p>
+
+<h1>History</h1>
+<p> The sweet orange is not a wild fruit,having arisen in domestication from a cross between a non-pure mandarin orange and a hybrid pomelo that had a substantial mandarin component. Since its chloroplast DNA is that of pomelo, it was likely the hybrid pomelo, perhaps a BC1 pomelo backcross, that was the maternal parent of the first orange. Based on genomic analysis, the relative proportions of the ancestral species in the sweet orange is approximately 42% pomelo and 58% mandarin.[41] All varieties of the sweet orange descend from this original cross, differing only by mutations selected for during agricultural propagation. Sweet oranges have a distinct origin from the bitter orange, which arose independently, perhaps in the wild, from a cross between pure mandarin and pomelo parents. The earliest mention of the sweet orange in Chinese literature dates from 314 B.C </p>
+
+<p> In Europe, the Moors introduced the orange to the Iberian Peninsula which was known as Al-Andalus, with large scale cultivation starting in the 10th century as evidenced by complex irrigation techniques specifically adapted to support orange orchards. Citrus fruits — among them the bitter orange — were introduced to Sicily in the 9th century during the period of the Emirate of Sicily, but the sweet orange was unknown until the late 15th century or the beginnings of the 16th century, when Italian and Portuguese merchants brought orange trees into the Mediterranean area.[10] Shortly afterward, the sweet orange quickly was adopted as an edible fruit. It also was considered a luxury item and wealthy people grew oranges in private conservatories, called orangeries. By 1646, the sweet orange was well known throughout Europe. Louis XIV of France had a great love of orange trees, and built the grandest of all royal Orangeries at the Palace of [Versailles.At](http://versailles.at/) Versailles potted orange trees in solid silver tubs were placed throughout the rooms of the palace, while the Orangerie allowed year-round cultivation of the fruit to supply the court. When Louis condemned his finance minister, Nicolas Fouquet, in 1664, part of the treasures which he confiscated were over 1,000 orange trees from Fouquet's estate at Vaux-le-Vicomte.</p>
+
+<p> Spanish travelers introduced the sweet orange into the American continent. On his second voyage in 1493, Christopher Columbus may have planted the fruit in Hispaniola. Subsequent expeditions in the mid-1500s brought sweet oranges to South America and Mexico, and to Florida in 1565, when Pedro Menéndez de Avilés founded St Augustine. Spanish missionaries brought orange trees to Arizona between 1707 and 1710, while the Franciscans did the same in San Diego, California, in 1769. An orchard was planted at the San Gabriel Mission around 1804 and a commercial orchard was established in 1841 near present-day Los Angeles. In Louisiana, oranges were probably introduced by French explorers.</p>
+
+<p> Archibald Menzies, the botanist and naturalist on the Vancouver Expedition, collected orange seeds in South Africa, raised the seedlings onboard and gave them to several Hawaiian chiefs in 1792. Eventually, the sweet orange was grown in wide areas of the Hawaiian Islands, but its cultivation stopped after the arrival of the Mediterranean fruit fly in the early 1900s</p>
+<p> As oranges are rich in vitamin C and do not spoil easily, during the Age of Discovery, Portuguese, Spanish, and Dutch sailors planted citrus trees along trade routes to prevent scurvy.
+
+Florida farmers obtained seeds from New Orleans around 1872, after which orange groves were established by grafting the sweet orange on to sour orange rootstocks</p>
+
+</body>
+</html>
